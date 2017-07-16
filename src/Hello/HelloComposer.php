@@ -1,5 +1,4 @@
 <?php
-
 namespace Hello;
 
 class HelloComposer {
