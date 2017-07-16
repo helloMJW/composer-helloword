@@ -1,10 +1,10 @@
 {
-    "name": "gangbo/foo",
+    "name": "hello-mjw/standard",
     "description": "test description",
     "authors": [
         {
-            "name": "gangbo",
-            "email": "daigangbo@gmail.com"
+            "name": "majianwei",
+            "email": "majianwei168@outlook.com"
         }
     ],
     "autoload": {
