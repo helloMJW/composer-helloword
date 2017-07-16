@@ -1,0 +1,24 @@
+{
+	"name": "helloMjw/standard",
+	"type": "library",
+	"description": "A library ",
+	"keywords": ["helloMjw", "library", "mjw"],
+	"homepage": "http://www.majianwei.com",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "majianwei",
+			"email": "majianwei168@outlook.com",
+			"homepage": "http://www.majianwei",
+			"role": "Developer"
+		}
+	],
+	"require:": {
+		"php": ">=5.4"
+	},
+	"autoload": {
+		"psr-0": {
+			"helloMjw": "src/"
+		}
+	}
+}
