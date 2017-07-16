@@ -5,6 +5,6 @@ class HelloComposer {
 
 	public function ccc()
 	{
-		echo 'first composer package!';
+		echo 'first composer package!aaaaaaaaaaaa';
 	}
 }
