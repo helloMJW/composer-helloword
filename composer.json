@@ -1,24 +1,15 @@
 {
-	"name": "hello-mjw/standard",
-	"type": "library",
-	"description": "A library ",
-	"keywords": ["helloMjw", "library", "mjw"],
-	"homepage": "http://www.majianwei.com",
-	"license": "MIT",
-	"authors": [
-		{
-			"name": "majianwei",
-			"email": "majianwei168@outlook.com",
-			"homepage": "http://www.majianwei",
-			"role": "Developer"
-		}
-	],
-	"require:": {
-		"php": ">=5.4"
-	},
-	"autoload": {
-		"psr-0": {
-			"Hello": "src/"
-		}
-	}
+    "name": "gangbo/foo",
+    "description": "test description",
+    "authors": [
+        {
+            "name": "gangbo",
+            "email": "daigangbo@gmail.com"
+        }
+    ],
+    "autoload": {
+         "psr-4": {
+            "gangbo\\foo\\": "src/"
+         }
+    }
 }
